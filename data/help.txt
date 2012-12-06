@@ -1,0 +1,62 @@
+The Collaborative Cloud Applet is divided vertically into three zones on the screen:
+DATA/OPTIONS/DESIGN (LEFT), VISUALIZATION (Middle), and ATTRIBUTES (Right).
+
+%DATA [Left Top]
+
+On the left there are four text input fields where you can enter in your information 
+(please note, your last name and email will NOT be made public).
+
+%OPTIONS [Left Middle]
+
+Below the text input fields are several buttons which control the functionality of the interface:
+
+SUBMIT:  When you are done designing your piece, click this to upload your design to the server.
+
+PREVIEW:  Click this to view a preview of what your fabrication file will look like.
+
+RESET:  Click this to return to the default configuration.
+
+RANDOM:  Click this to generate a random piece.
+
+LOAD:  To load a design from the server, enter your e-mail in the intput field and click this.
+
+EXPORT:  (Not enabled on the web interface) Click this to write a PDF of the piece you design.
+
+INFO:  Click to read about the Collaborative Cloud Project.
+
+HELP:  Click to reach this help screen.
+
+ROTATE:  Toggle this checkbox to affect the rotation of the visualization.
+
+SHADING:  There are three modes of shading: Wireframe, Sketch, and Shaded (default). Click on the
+different shading modes to change the way the design is visualized.  
+
+%DESIGN [Left Bottom]
+
+On the bottom left of the applet you will find an area where you can design your piece. There are
+three control points which you can use to freely design. Hover your mouse over one of the control 
+points and you will see cross-hairs apprear. 
+
+With a left-click and drag you can move the control points. 
+
+The middle control point moves diagonally, while the other two control points are limited to the 
+regions marked in red. To maximize the design area, click on the button next to SHAPE.
+
+%VISUALIZATON [Middle]
+
+In this middle area you will see the updates to your design.  By default your design is rotating.  
+To change this, toggle the ROTATE option on the left hand side of the interface. Clicking and 
+dragging any of the mouse buttons will allow you to rotate the view of the design. Using the scroll 
+wheel of your mouse, you can zoom in and out.
+
+%DESIGN ATTRIBUTES [Right]
+
+The right area of the applet serves as a way to control the numberof legs in the design as well as 
+the material from which your design will be cut (concept).  
+
+There are three intersecting planes which make up the design (Plane A, B and C). Each of these 
+planes can have 1-4 legs. To turn legs on or off, click on the square adjacent to the leg.
+
+To control the materials from which your design will be fabricated, click on the button next to 
+'material' on the top left of each plane.
+
